@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 About Us 」</a>
+    <a href="https://www.google.com/search?q=CatBox+Arts">「 About Us 」</a>
     <br>
     「 Join us in reimagining gaming. Experience innovation with CatBox Arts – <b>where creativity knows no bounds.</b> 」
     <br>
