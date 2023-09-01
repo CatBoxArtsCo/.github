@@ -53,22 +53,33 @@
 
 <br/>
 
+# Our team 🎯
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/leticiadutra22-23"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="Letícia Dutra"/><br /><sub><b>Leticia Dutra</b>
+        </a>
+        <p>Game Designer</p></sub></td>
+      <td align="center"><a href="https://github.com/indigow95"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></a>
+        <p>Game Artist</p></sub></td>
+      <td align="center"><a href="https://github.com/PedroKeita"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></a>
+        <p>Game Developer</p></sub></td>
+      <td align="center"><a href="https://github.com/xxkaiozin"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a>
+        <p>Game Developer</p></td>
+    </tr>
+  </tbody>
+</table>
 
 # Our stats 🎲
 <br/>
 <br/>
-<p align="center">
   <a href="https://github.com/CatBoxArtsCo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatBoxArts&theme=graywhite&border=FFFFFF" alt="CatBox's GitHub streak"/>
   </a>
-</p>
 
-
-<p align="center">
   <a href="https://github.com/CatBoxArtsCo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CatBoxArts&theme=graywhite" alt="CatBox's GitHub Contribution"/>
   </a>
-</p>
 
 <a> 
     <a href="https://github.com/CatBoxArtsCo"><img alt="CatBox's GitHub Contribution" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CatBoxArts&show_icons=true&count_private=true&theme=graywhite" height="192px" width="49.5%"/></a>
