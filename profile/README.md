@@ -1,5 +1,5 @@
 <h3  align="center">
-<img width="410px" src="https://github.com/CatBoxArts/CatBoxArts/assets/141590555/2bd35e71-64ea-4be0-a000-7dc0f8e26f91" />
+<img width="600px" src="https://github.com/CatBoxArtsCo/.github/assets/101335613/4721df42-45e9-4eaf-a7f8-9c202f98a93c" />
 </h3>
 
 <!-- Intro  -->
