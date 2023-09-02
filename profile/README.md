@@ -57,7 +57,7 @@ At Catbox Arts, we envision impacting our community through games that fuel play
 </br>
 
 <h2 align="left">𝗢𝘂𝗿 𝘃𝗮𝗹𝘂𝗲𝘀</h2>
-<img align='right' src='https://github.com/CatBoxArtsCo/.github/assets/101335613/f172c5bf-8955-44c1-8ad2-e0826b296d23' width='260'>
+<img align='right' src='https://github.com/CatBoxArtsCo/.github/assets/101335613/f172c5bf-8955-44c1-8ad2-e0826b296d23' width='200'>
 <p align="left">
 <b>𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗜𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻: </b></br>We believe that everyone should have the opportunity to participate in the world of video games, regardless of their abilities or limitations. Therefore, we strive to create games that are accessible to all.</br></br></br>
 <b>𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗘𝗺𝗽𝗼𝘄𝗲𝗿𝗺𝗲𝗻𝘁: </b></br>We believe in the strength of the community to enrich our games. We encourage player interaction, promoting a friendly and welcoming environment for everyone.</br></br></br>
